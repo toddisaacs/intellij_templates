@@ -1,5 +1,5 @@
-import React, {PropTypes} from 'react'
-import {connect} from 'redux'
+import React, {PropTypes} from 'react';
+import {connect} from 'react-redux';
 import {bindActionCreators} from 'redux'
 
 class ManageCoursePage extends React.Component {
