@@ -1,20 +1,13 @@
-import React, {PropTypes} from 'react'
+import React, { Component } from 'react';
 
-class ${NAME} extends React.Component {
-  constructor(props, context) {
-    super(props, context);
-   }
-    
+class $NAME$ extends Component {
   render() {
     return (
-       <div />
+      <div>
+        
+      </div>
     );
   }
-    
 }
 
-${NAME}.propTypes = {
-  //myProp: PropTypes.object.isRequired
-};
-
-export default ${NAME};
+export default $NAME$;
