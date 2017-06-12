@@ -1,14 +1,12 @@
-import React , {PropTypes} from 'react';
+import React from 'react';
 
-const ${NAME} = () => {
+const $NAME$ = () => {
   return (
-    <div></div>
+    <div>
+    
+    </div>
   );
 };
 
-${NAME}.propTypes = {
-  //myProp: PropTypes.array.isRequired
-};
 
-export default ${NAME};
-
+export default $NAME$ ;
